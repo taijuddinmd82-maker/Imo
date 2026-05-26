@@ -6,19 +6,19 @@
         "Allowoffline": true
     },
     {
-        "device_id": "4970055391cdcf88",
+        "device_id": "4970055391cdc8",
         "key": "1234",
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "1e07c99e3f51b4e7",
+        "device_id": "1e07c99e3f51b4",
         "key": "2020",
         "expirydate": "15-5-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "cee6d2c9dfffa7c4",
+        "device_id": "cee6d2c9dfffa7c",
         "key": "rabbi",
         "expirydate": "15-05-2026",
         "Allowoffline": false
