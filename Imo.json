@@ -14,13 +14,13 @@
     {
         "device_id": "1e07c99e3f51b4e7",
         "key": "20205",
-        "expirydate": "30-6-2026",
+        "expirydate": "30-7-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "cee6d2c9dfffa7c",
-        "key": "rlhy",
-        "expirydate": "15-05-2026",
+        "device_id": "278a413e74961f2d",
+        "key": "1234",
+        "expirydate": "15-09-2026",
         "Allowoffline": false
     }
 ]
