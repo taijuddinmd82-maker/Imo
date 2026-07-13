@@ -23,4 +23,17 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false
     }
+],
+{
+        "device_id": "1e07c99e3f51b4e7",
+        "key": "20205",
+        "expirydate": "30-7-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "cee6d2c9dfffa7c4",
+        "key": "Taizul",
+        "expirydate": "25-07-2026",
+        "Allowoffline": false
+    }
 ]
